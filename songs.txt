@@ -1,0 +1,33 @@
+Arif sag;Feridem;1000;Türk Halk;1956
+Erkan Oğur;Bir Derdim" Var;1001;Türk Halk;1945
+Aşık Veysel;Uzun İnce Bir Yoldayım;1002;Türk Halk;1963
+Musa Eroğlu;Telli Turnam;1003;Türk Halk;1940
+Aşık Mahzuni Şerif;İşte Gidiyorum Çeşmi Siyahım;1004;Türk Halk;1956
+Kazim Koyuncu & Sevval Sam;Ben seni sevdiğimi;1005;Türk Halk;1933
+Abdal;Pınar başında Bulanır;1006;Türk Halk;1938
+Selanik Türküsü;Bir fırtına tuttu bizi;1007;Türk Halk;1921
+Onur Akın;Geceyi sana yazdım;1008;Türk Halk;1922
+Özlem Özdil;Candan İleri;1009;Türk Halk;1970
+Güler Duman;İşte gidiyorum çeşm-i siyahım;1010;Türk Halk;1965
+Neşet Ertaş;Gönül Dağı;1011;Türk Halk;1963
+Ali Asker;Şu metrisin Önü;1012;Türk Halk;2001
+Zara;Yare söyleme;1013;Türk Halk;2004
+Cengiz Özkan;Bir Ay Doğar;1014;Türk Halk;2010
+Sıcak sımsıcaksın;Semiha Yankı;1015;Türk Halk;2000
+Ölsem de bir kalsam da bir;Banu;1016;Türk Halk;2005
+Yeter ki;Saadet Sun;1017;Türk Pop;1999
+Yasak aşk;Gökhan Abur;1018;Türk Pop;1985
+Olmaz bu iş olamaz;Samiramis Pekkan;1019;Türk Pop;1988
+Kim arar seni;Nilüfer;1020;Türk Pop;1989
+Ele güne karşı;Mfö;1021;Türk Pop;2005
+Sen bir meleksin;Esin Engin;1022;Türk Pop;2009
+Gönül oyunu;Esin Engin;1023;Türk Pop;1965
+Melankoli;Nükhet Duru;1024;Türk Pop;1987
+Kalbimi kim çalıyor;Sezen Aksu;1025;Türk Pop;1996
+Çık ortaya;Sevda Karaca;1026;Türk Pop;1970
+Olmaz mı olmaz mı;Yasemin Kumral;1027;Türk Pop;1965
+Rush;Ayra Starr;1028;Yabancı Pop;2021
+Anti Hero;Taylor Swift;1029;Yabancı Pop;2019
+Sekret (Remix);Ermenita;1030;Yabancı Pop;2010
+Dream On;AerosmithBel;1031;Yabancı Pop;2022
+Mercy;Jengi;1032;Yabancı Pop;2009
